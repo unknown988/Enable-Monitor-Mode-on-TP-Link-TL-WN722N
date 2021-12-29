@@ -1,6 +1,10 @@
 # Install-and-Enable-Monitor-Mode-on-TP-Link-TL-WN722N
 This Bash scrept for enabel Monitor Mode in TP-Link TL-WN722N 
-if this bash scrept not work run this commands  <br>
+<p> first download Enabe-MonitorMode.sh Bash Script and run this </p>
+``` sudo bash ./Enabe-MonitorMode.sh
+```
+
+#if this bash scrept not work run this commands  <br>
 > # Run This Commands In terminal
 ```bash
 sudo apt update
